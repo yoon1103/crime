@@ -2,16 +2,18 @@
 
 Screnshots
 -----------------------------
-![A1](https://user-images.githubusercontent.com/72060405/101168957-9a282200-367f-11eb-8d13-d43c2d1432c5.png)
-![A2](https://user-images.githubusercontent.com/72060405/101168963-9ac0b880-367f-11eb-8aed-7c9d9dc6f2e7.png)
-![A3](https://user-images.githubusercontent.com/72060405/101168964-9b594f00-367f-11eb-8b27-0ff5ed1ee222.png)
-![A4](https://user-images.githubusercontent.com/72060405/101168965-9bf1e580-367f-11eb-894f-295b966fe3a9.png)
-![A5](https://user-images.githubusercontent.com/72060405/101168967-9c8a7c00-367f-11eb-96ae-147948b6b2c7.png)
-
-![D1](https://user-images.githubusercontent.com/72060405/100575134-d1649f00-331e-11eb-94d4-170fc2dc4bd7.png)
-![D2](https://user-images.githubusercontent.com/72060405/100982806-d67a5600-358b-11eb-9a82-5b3a66eac55b.png)
-![D3](https://user-images.githubusercontent.com/72060405/100982809-d712ec80-358b-11eb-8906-ce29ef0854ae.png)
-![D4](https://user-images.githubusercontent.com/72060405/100982810-d712ec80-358b-11eb-85f4-6554604ab03b.png)
-![D5](https://user-images.githubusercontent.com/72060405/100982797-d4b09280-358b-11eb-8552-3b093f669399.png)
-
-![V1](https://user-images.githubusercontent.com/72060405/101247591-d3cf5a80-375d-11eb-8ec1-a83865211d4b.png)
+![crime_2019 txt](https://user-images.githubusercontent.com/72060405/101590345-91dc3800-3a2d-11eb-9340-ff1a2ce5ddf4.png)
+![df_crime_2019](https://user-images.githubusercontent.com/72060405/101590348-930d6500-3a2d-11eb-838b-8b1e9de5d609.png)
+![df_crime_2019_norm](https://user-images.githubusercontent.com/72060405/101590349-93a5fb80-3a2d-11eb-9cb9-358829764dc2.png)
+![df_crime_2019_per_capita](https://user-images.githubusercontent.com/72060405/101590350-93a5fb80-3a2d-11eb-8b55-8a21eae2a545.png)
+![django_covid19](https://user-images.githubusercontent.com/72060405/101590351-943e9200-3a2d-11eb-90c7-a708c66fed15.png)
+![django_covid19_local](https://user-images.githubusercontent.com/72060405/101590352-943e9200-3a2d-11eb-8223-870990c866ac.png)
+![hm_arrest](https://user-images.githubusercontent.com/72060405/101590354-94d72880-3a2d-11eb-9f43-137e016d31b2.png)
+![hm_crime](https://user-images.githubusercontent.com/72060405/101590356-94d72880-3a2d-11eb-8146-1c4d162ce9ea.png)
+![hm_crime_corr](https://user-images.githubusercontent.com/72060405/101590357-956fbf00-3a2d-11eb-869b-ab6a42ae92f4.png)
+![murder_both](https://user-images.githubusercontent.com/72060405/101590359-956fbf00-3a2d-11eb-880f-18a99c694f16.png)
+![murder_case](https://user-images.githubusercontent.com/72060405/101590362-96a0ec00-3a2d-11eb-8200-2ad53312fffe.png)
+![murder_rate](https://user-images.githubusercontent.com/72060405/101590365-97398280-3a2d-11eb-82d0-774512187d9c.png)
+![normalized_arrest](https://user-images.githubusercontent.com/72060405/101590368-97d21900-3a2d-11eb-95c3-16126f518fe3.png)
+![normalized_crime](https://user-images.githubusercontent.com/72060405/101590369-97d21900-3a2d-11eb-8903-1ffdeff6e030.png)
+![office_location](https://user-images.githubusercontent.com/72060405/101590370-986aaf80-3a2d-11eb-8a2f-e40405330d31.png)
