@@ -16,7 +16,7 @@ Screnshots
 
 ![murder_case](https://user-images.githubusercontent.com/72060405/101590362-96a0ec00-3a2d-11eb-8200-2ad53312fffe.png)
 ![murder_rate](https://user-images.githubusercontent.com/72060405/101590365-97398280-3a2d-11eb-82d0-774512187d9c.png)
-![murder_both](https://user-images.githubusercontent.com/72060405/101604639-8a745900-3a44-11eb-90e8-ba69657cca83.png)
+![murder_both](https://user-images.githubusercontent.com/72060405/101605091-1f775200-3a45-11eb-8838-428b68466bbc.png)
 
 ![django_covid19_local](https://user-images.githubusercontent.com/72060405/101590352-943e9200-3a2d-11eb-8223-870990c866ac.png)
 ![django_covid19](https://user-images.githubusercontent.com/72060405/101598874-277ec400-3a3c-11eb-8086-9c339b590912.png)
