@@ -19,4 +19,4 @@ Screnshots
 ![murder_both](https://user-images.githubusercontent.com/72060405/101590359-956fbf00-3a2d-11eb-880f-18a99c694f16.png)
 
 ![django_covid19_local](https://user-images.githubusercontent.com/72060405/101590352-943e9200-3a2d-11eb-8223-870990c866ac.png)
-![django_covid19](https://user-images.githubusercontent.com/72060405/101591255-6fe3b500-3a2f-11eb-82d1-f2dcb8aa612b.png)
+![django_covid19](https://user-images.githubusercontent.com/72060405/101598874-277ec400-3a3c-11eb-8086-9c339b590912.png)
